@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.9",
-    "update_url": "https://t.me/DemonTunnel/3393",
+    "latest_version": "1.0",
+    "update_url": "https://t.me/DemonTunnel",
     "force_update": true,
     "release_notes": [
         "Some bugs fixed",
