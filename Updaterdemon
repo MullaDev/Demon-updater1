@@ -1,1 +1,15 @@
-no data's
+{
+    "latest_version": "2.9",
+    "update_url": "https://t.me/DemonTunnel/3393",
+    "force_update": true,
+    "release_notes": [
+        "Some bugs fixed",
+        "Config update fixed",
+        "Export timer improved",
+        "Wifitether working",
+        "Custom Proxy Mode added",
+        "Slow Dns Mode improved now working",
+        "Performance improved",
+        "Clean & Optimize"
+    ]
+}
