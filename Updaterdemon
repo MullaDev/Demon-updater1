@@ -1,14 +1,12 @@
 {
-    "latest_version": "1.0",
-    "update_url": "https://t.me/DemonTunnel",
+    "latest_version": "1.1",
+    "update_url": "https://iwacu-download.vercel.app/",
     "force_update": true,
     "release_notes": [
         "Some bugs fixed",
-        "Config update fixed",
-        "Export timer improved",
+        "V2ray fixed",
+        "Export & import profile",
         "Wifitether working",
-        "Custom Proxy Mode added",
-        "Slow Dns Mode improved now working",
         "Performance improved",
         "Clean & Optimize"
     ]
