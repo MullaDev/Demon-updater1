@@ -1,12 +1,13 @@
 {
-    "latest_version": "1.1",
-    "update_url": "https://iwacu-download.vercel.app/",
+    "latest_version": "1.2",
+    "update_url": "https://iwacuvpn.netlify.app/",
     "force_update": true,
     "release_notes": [
         "Some bugs fixed",
-        "V2ray fixed",
+        "Profile UI Updated",
+        "Export Multiple Profile",
         "Export & import profile",
-        "Wifitether working",
+        "Graph Display Added 📈",
         "Performance improved",
         "Clean & Optimize"
     ]
