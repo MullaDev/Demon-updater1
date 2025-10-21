@@ -1,12 +1,15 @@
 {
-  "latest_version": "1.2.0",
-  "update_url": "https://iwacuvpn.netlify.app/",
-  "update_type": "inbuilt",
-  "file_name": "DemonVPN_5.6.0.apk",
-  "force_update": false,
-  "release_notes": [
-    "Added new servers",
-    "Improved speed",
-    "Enhanced update system"
-  ]
+    "latest_version": "1.2",
+    "inbuilt_url": "https://github.com/MullaDev/iwacu_vpn/releases/download/V1.2/IWACU-VPN.v1.2.apk",
+    "manual_url": "https://iwacuvpn.netlify.app/",
+    "force_update": true,
+    "release_notes": [
+        "Some bugs fixed",
+        "Profile UI Updated",
+        "Export Multiple Profile",
+        "Export & import profile",
+        "Graph Display Added 📈",
+        "Performance improved",
+        "Clean & Optimize"
+    ]
 }
