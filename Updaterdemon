@@ -1,6 +1,6 @@
 {
   "latest_version": "5.6.0",
-  "update_url": "https://yourserver.com/DemonVPN_5.6.0.apk",
+  "update_url": "https://iwacuvpn.netlify.app/",
   "update_type": "inbuilt",
   "file_name": "DemonVPN_5.6.0.apk",
   "force_update": false,
