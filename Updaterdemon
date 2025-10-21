@@ -1,7 +1,7 @@
 {
     "latest_version": "1.2",
     "inbuilt_url": "https://github.com/MullaDev/iwacu_vpn/releases/download/V1.2/IWACU-VPN.v1.2.apk",
-    "manual_url": "",
+
     "force_update": true,
     "release_notes": [
         "Some bugs fixed",
