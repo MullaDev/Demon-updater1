@@ -1,14 +1,15 @@
-{
-    "latest_version": "1.3",
-    "update_url": "https://iwacuvpn.netlify.app/",
-    "force_update": true,
-    "release_notes": [
-        "Cloud Config Exp&Imp",
-        "Profile UI Updated",
-        "Export Multiple Profile",
-        "Export & import profile",
-        "App Update New UI",
-        "Inbuilt app update",
-        "Clean & Optimize"
-    ]
-}
+‎{
+‎    "latest_version": "1.3",
+‎    "inbuilt_url": "https://github.com/MullaDev/iwacu_vpn/releases/download/V1.2/IWACU-VPN.v1.2.apk",
+‎    "manual_url": "https://iwacuvpn.netlify.app/",
+‎    "force_update": true,
+‎    "release_notes": [
+‎        "Some bugs fixed",
+‎        "Profile UI Updated",
+‎        "Export Multiple Profile",
+‎        "Export & import profile",
+‎        "Graph Display Added 📈",
+‎        "Performance improved",
+‎        "Clean & Optimize"
+‎    ]
+‎}
