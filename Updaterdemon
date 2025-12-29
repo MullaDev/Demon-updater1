@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.5",
-  "inbuilt_url": "https://github.com/MullaDev/iwacu_vpn/releases/download/V1.5/IWACU-VPN.v1.5.apk",
+  "latest_version": "1.6",
+  "inbuilt_url": "https://github.com/MullaDev/iwacu_vpn/releases/download/V1.6/IWACU-VPN.v1.6.apk",
   "manual_url": "https://iwacuvpn.netlify.app/",
   "force_update": false,
   "release_notes": [
-    "IWACU VPN v1.5 – Faster & Smarter",
+    "IWACU VPN v1.6 – Faster & Smarter",
     "",
     "Bugs fixed for smoother experience",
     "New UI with a clean and modern design",
